@@ -1,2 +1,2 @@
-# Wind-Scripts
-Script hub for Roblox, right in your game.
+# WindScripts
+Script hub for Roblox that is built on [WindUI](https://github.com/Footagesus/WindUI)
